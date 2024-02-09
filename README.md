@@ -1,7 +1,7 @@
 # 9th-week-Assignment
 9주차 과제
 
-1.Targeet DB에 접속한 사진(41P)
+1.Target DB에 접속한 사진(41P)
 
 2.데이터 확인 사진(42P)
 
